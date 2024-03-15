@@ -2,7 +2,7 @@
 
 Vela Partners is the world's first product-led and AI-powered venture capital firm. 
 
-**Project Brief:** Design a Sourcing Agent to identify relevant startups.
+**Project Brief:** Find and recommend start-ups based on a Venture Capital investment thesis.
 
 **Outcome:** In less than a week, I harnessed Large Language Model (LLM) Agents (openai, langchain), web-scraping (Beautiful Soup and html2text), and API calls (LinkedIn, Crunchbase) to identify relevant startups, scrape information from Y Combinator pages, extract founder data from LinkedIn and Crunchbase to generate a ranking and justification for investment decisions.
 
