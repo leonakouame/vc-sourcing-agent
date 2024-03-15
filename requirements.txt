@@ -1,0 +1,11 @@
+openai
+langchain-openai
+langchain
+google-search-results
+langchainhub
+html2text
+beautifulsoup4
+lxml
+google
+pandas
+scikit-learn
