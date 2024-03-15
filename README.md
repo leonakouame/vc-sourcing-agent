@@ -10,5 +10,5 @@ This repo contains a summary of the functions I created in a .ipynb file (issues
 
 The main information is under the heading "Final", with the rest of the notebook featuring an experiment to improve ranking algorithms using similarity search (Tfidf vectors) and supervised learning approaches (RankNet algorithm). 
 
-_Read the full paper to understand the full methodology, strengths, limitations, and future research opportunities. _
+_Read the full paper to understand the methodology, strengths, limitations, and future research opportunities. _
 
